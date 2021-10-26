@@ -1,0 +1,452 @@
+
+#EXTM3U
+
+#EXTINF:-1,Futura
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12957
+#EXTINF:-1,TV Cultura
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12959
+#EXTINF:-1,TV Justica
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12960
+#EXTINF:-1,TV Senado
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12961
+#EXTINF:-1,Globo RJ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962
+#EXTINF:-1,Globo RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
+#EXTINF:-1,Globo RJ | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12964
+#EXTINF:-1,Tv Rio Sul RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12965
+#EXTINF:-1,Globo SP
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12966
+#EXTINF:-1,Globo SP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967
+#EXTINF:-1,Globo Minas
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12968
+#EXTINF:-1,Globo Minas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12969
+#EXTINF:-1,Globo Nordeste
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12971
+#EXTINF:-1,Globo Brasilia
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12972
+#EXTINF:-1,Globo Brasilia | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12973
+#EXTINF:-1,Globo Bahia
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12975
+#EXTINF:-1,Globo Santa Cruz BH | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12976
+#EXTINF:-1,Globo Campinas | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12980
+#EXTINF:-1,Globo CE | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12996
+#EXTINF:-1,Globo MA | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13005
+
+#EXTINF:-1, GLOBO² TV BAHIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32176
+#EXTINF:-1, GLOBO TV SERGIPE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32178
+#EXTINF:-1, GLOBO² TV TEM BAURU SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32179
+#EXTINF:-1, GLOBO² TV Tem Rio Preto SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32180
+#EXTINF:-1, GLOBO² TV TEM SOROCABA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32181
+#EXTINF:-1, GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32182
+#EXTINF:-1, GLOBO² TV VERDES MARES FORTALEZA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32183
+#EXTINF:-1, GLOBO³  NSC JOINVILLE  HDD SC
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32184
+#EXTINF:-1, GLOBO³ BRASILIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32191
+#EXTINF:-1, GLOBO³ CHAPECO HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32194
+#EXTINF:-1, GLOBO³ CURITIBA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32198
+#EXTINF:-1, GLOBO³ EPTV RIBEIRAO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32206
+#EXTINF:-1, GLOBO³ FLORIANOPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32208
+#EXTINF:-1, GLOBO³ FOZ DO IGUAÇU FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32215
+#EXTINF:-1, GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32216
+#EXTINF:-1, GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32217
+#EXTINF:-1, GLOBO³ GAZETA VITORIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32220
+#EXTINF:-1, GLOBO³ GOIANIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32221
+#EXTINF:-1, GLOBO³ GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32223
+#EXTINF:-1, GLOBO³ INTER TV  CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32226
+#EXTINF:-1, GLOBO³ INTER TV ALTO LITORAL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32227
+#EXTINF:-1, GLOBO³ INTER TV CABUGI SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32230
+#EXTINF:-1, GLOBO³ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32241
+#EXTINF:-1, GLOBO³ NSC CHAPECO FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32243
+#EXTINF:-1, GLOBO³ NSC JOINVILLE  FULLHD SC
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32244
+#EXTINF:-1, GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32247
+#EXTINF:-1, GLOBO RBS TV CAXIAS DO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32251
+#EXTINF:-1, GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32265
+#EXTINF:-1, GLOBO³ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32266
+#EXTINF:-1, GLOBO³ RPC TV PARANAVAI FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32267
+#EXTINF:-1, GLOBO³ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32279
+#EXTINF:-1, GLOBO³ TV CABO BRANCO FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32281
+#EXTINF:-1, GLOBO³ TV CENTRO AMERICA HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32284
+#EXTINF:-1, GLOBO³ TV CLUBE PI HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32286
+#EXTINF:-1, GLOBO³ TV GAZETA ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32290
+#EXTINF:-1, GLOBO TV GAZETA SUL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32291
+#EXTINF:-1, GLOBO TV CABUGI HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32297
+#EXTINF:-1, GLOBO RBS TV PORTO ALEGRE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32298
+#EXTINF:-1, GLOBO RBS TV PORTO ALEGRE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32300
+#EXTINF:-1, GLOBO³ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32301
+#EXTINF:-1, GLOBO RBS Porto Alegre HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32304
+#EXTINF:-1, GLOBO³ TV SERGIPE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32307
+#EXTINF:-1, GLOBO TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32309
+#EXTINF:-1, GLOBO¹ INTER TV ALTO LITORAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32325
+#EXTINF:-1, GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31519
+#EXTINF:-1, GLOBO NEWS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32153
+#EXTINF:-1, GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32334
+#EXTINF:-1, GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32158
+#EXTINF:-1, GLOBO NSC Blumenau HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32341
+#EXTINF:-1, GLOBO¹ REDE AMAZONICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32347
+#EXTINF:-1, GLOBO¹ RPC CURITIBA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32351
+#EXTINF:-1, GLOBO¹ RPC MARINGÁ FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32353
+#EXTINF:-1, GLOBO¹ RPC TV CURITIBA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32357
+#EXTINF:-1, GLOBO SP HD¹
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32360
+#EXTINF:-1, GLOBO¹ TV BRASILIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32370
+#EXTINF:-1, GLOBO¹ TV CABO BRANCO FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32371
+#EXTINF:-1, GLOBO¹ TV CENTRO AMÉRICA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32372
+#EXTINF:-1, GLOBO¹ TV CLUBE TERESINA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32373
+#EXTINF:-1, GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32374
+#EXTINF:-1, GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32376
+#EXTINF:-1, GLOBO¹ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32380
+#EXTINF:-1, GLOBO¹ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32387
+#EXTINF:-1, GLOBO¹ TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32391
+#EXTINF:-1, Globo TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33737
+#EXTINF:-1, GLOOBINHO H265
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33741
+
+#EXTINF:-1,OFF | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13086
+#EXTINF:-1,SporTV 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100
+#EXTINF:-1,SporTV 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13101
+#EXTINF:-1,SporTV 3 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13104
+#EXTINF:-1,Telecine Pipoca | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13168
+#EXTINF:-1,HBO | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13183
+#EXTINF:-1,HBO | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13184
+#EXTINF:-1,AMC | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13227
+#EXTINF:-1,Paramount | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13229
+#EXTINF:-1,Fish TV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13251
+#EXTINF:-1,NatGeo | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13261
+#EXTINF:-1,Discovery Theater | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13273
+#EXTINF:-1,NatGeoKids | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13309
+#EXTINF:-1,Woohoo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13345
+#EXTINF:-1,Woohoo | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13346
+#EXTINF:-1,Fox Sports
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13347
+#EXTINF:-1,Fox Sports | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13348
+#EXTINF:-1,Fox Sports | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#EXTINF:-1,Fox Sports 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#EXTINF:-1,ESPN
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353
+#EXTINF:-1,ESPN | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13354
+#EXTINF:-1,ESPN 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13356
+#EXTINF:-1,ESPN 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13358
+#EXTINF:-1,ESPN Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13359
+#EXTINF:-1,ESPN Brasil | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13361
+#EXTINF:-1,Band Sports
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13364
+#EXTINF:-1,Band Sports | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13366
+#EXTINF:-1,Combate
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13367
+#EXTINF:-1,Combate | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13369
+#EXTINF:-1,Premiere Clubes
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13370
+#EXTINF:-1,Premiere Clubes | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13371
+#EXTINF:-1,Premiere Clubes | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13372
+#EXTINF:-1,Premiere 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13374
+#EXTINF:-1,Premiere2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13375
+#EXTINF:-1,+18 Playboy TV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13410
+#EXTINF:-1,Os Flintstones | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13489
+#EXTINF:-1,Os Vingadores | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13491
+#EXTINF:-1,Peppa Pig | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13493
+#EXTINF:-1,Smallville | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13502
+#EXTINF:-1,Dog TV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19604
+#EXTINF:-1,TLC | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19633
+#EXTINF:-1,Premiere 7 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19634
+#EXTINF:-1,Premiere 5 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19636
+#EXTINF:-1,FAZENDA 2023 HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/24168
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
